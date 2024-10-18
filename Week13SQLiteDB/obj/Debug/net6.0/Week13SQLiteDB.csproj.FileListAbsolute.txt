@@ -1,0 +1,5 @@
+/Users/carlyn/Projects/Week13SQLiteDB/Week13SQLiteDB/obj/Debug/net6.0/Week13SQLiteDB.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week13SQLiteDB/Week13SQLiteDB/obj/Debug/net6.0/Week13SQLiteDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week13SQLiteDB/Week13SQLiteDB/obj/Debug/net6.0/Week13SQLiteDB.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week13SQLiteDB/Week13SQLiteDB/obj/Debug/net6.0/Week13SQLiteDB.AssemblyInfo.cs
+/Users/carlyn/Projects/Week13SQLiteDB/Week13SQLiteDB/obj/Debug/net6.0/Week13SQLiteDB.csproj.CoreCompileInputs.cache
